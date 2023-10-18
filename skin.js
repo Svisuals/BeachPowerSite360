@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.13/18080
 // Filename: Beach Power.ggsk
-// Generated 2023-10-17T21:27:35
+// Generated 2023-10-17T22:20:44
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_3d_preview', 2, true);
